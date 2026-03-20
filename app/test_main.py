@@ -19,4 +19,3 @@ class TestIsIsogram:
     ) -> None:
         result = is_isogram(word)
         assert result == expected
-
